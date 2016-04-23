@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Black Canvas]]></title>
         <description><![CDATA[Black Canvas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/black-canvas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 12:16:20 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 17:43:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/black-canvas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d23bd78-9448-477e-a6c7-f806df17627b.jpg">]]></description>
+            <link>https://thegrid.ai/black-canvas/jason-is-the-pastor-of-teaching-and-vision-within-theheart-/index.html</link>
+            <guid isPermaLink="false">713ac01c-6378-45f9-95c3-7447ee26a57c</guid>
+            <pubDate>Sat, 23 Apr 2016 17:43:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fdc7c31-dcba-4038-b857-35875f3e3fd7.jpg">]]></description>
-            <link>undefineddeliberately-small-leadership-and-creative-conferences-desig/index.html</link>
+            <link>https://thegrid.ai/black-canvas/deliberately-small-leadership-and-creative-conferences-desig/index.html</link>
             <guid isPermaLink="false">a48f907d-6cb6-4c9d-a460-0aea164028bf</guid>
             <pubDate>Sat, 23 Apr 2016 12:15:27 GMT</pubDate>
         </item>
